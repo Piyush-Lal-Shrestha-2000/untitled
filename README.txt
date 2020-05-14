@@ -8,3 +8,6 @@ email               password    post
 test123@mail.com    testtest    consumer/normal user
 admin@mail.com      admin       admin
 ---------------------------------------------------------------------
+
+
+PLEASE IMPORT THE "untitled_test.sql" BEFORE RUNNING THIS PROJECT!!!
